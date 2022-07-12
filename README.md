@@ -6,7 +6,10 @@ Deploy of the Beta-Latacmase Bioactivity Classifier Model that was build during 
 Awards: 3rd place
 
 <p align="center">
-<img align="center" style="width: 400px" src="https://github.com/carineribeirost/ChemSpaceMap/blob/main/resources/images/PCA_2D.png?"/>
+<img align="center" style="width: 400px" src="https://github.com/carineribeirost/model-deploy-competition-beta-lactamase/blob/main/images/streamlit%20app.png"/>
+</p>
+<p align="center">
+<img align="center" style="width: 400px" src="https://github.com/carineribeirost/model-deploy-competition-beta-lactamase/blob/main/images/streamlit%20app2.png"/>
 </p>
 
 ## Libraries required
