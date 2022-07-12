@@ -9,29 +9,45 @@ Awards: 3rd place
 <img align="center" style="width: 400px" src="https://github.com/carineribeirost/ChemSpaceMap/blob/main/resources/images/PCA_2D.png?"/>
 </p>
 
-## Molecular Similarity in a Chemical Space
-
-ChemSpaceMap creates a 2D and 3D visualization of a chemical dataset with **PCA, t-SNE** and **UMAP**, using a curated Tuberculosis
-dataset from ChEMBL. 
-
-By exploring the source code you will see
-
-* How to install the relevant packages 
-* Embed your SMILES as (extended-connectivity fingerprints) ECFPs
-* Reduce high-dimensional vectors to 2 and 3 dimensions  
-* How to represent chemical space in 2D and 3D
-
 ## Libraries required
 
 * [Pandas](https://pandas.pydata.org/) - python package for easy and intuitive data manipulation and analysis
 
 * [NumPy](https://numpy.org/) -  the fundamental package for array computing with Python
 
-* [Plotly](https://plotly.com/) - provides graphing, analytics, and statistics tools, as well as scientific graphing libraries for Python, R and other languages.
+* [RDKit](https://www.rdkit.org/) - Open source toolkit for cheminformatics
+
+* [Mols2grid](https://github.com/cbouy/mols2grid) - Interactive molecule viewer for 2D structures, based on RDKit
 
 * [Streamlit](https://streamlit.io/) - a faster way to build and share data apps
 
 Libraries were used in a [Anaconda3](https://docs.conda.io/en/latest/) environment using python 3.10.4
+
+## Installation
+
+Anaconda3: [Installation](https://docs.anaconda.com/anaconda/install/index.html)
+
+pandas:
+```
+conda install -c anaconda pandas
+```
+numpy
+```
+conda install -c anaconda numpy
+```
+RDKit
+```
+pip install rdkit
+```
+Streamlit
+```
+pip install streamlit
+```
+
+Mols2Grid
+```
+pip install mols2grid
+```
 
 ## Launch the app
 
