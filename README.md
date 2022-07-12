@@ -1,7 +1,7 @@
 
 # Model Deploy - (Re)Start Data Science Competition
 
-Deploy of the Beta-Latacmase Bioactivity Classifier Model that was build during the (Re)Start Data Science Competition in 2021 using a public Kaggle dataset
+Deploy of the Beta-Latacmase Bioactivity Classifier Model that was built during the (Re)Start Data Science Competition in 2021 using a public Kaggle dataset
 
 Awards: 3rd place
 
